@@ -3,7 +3,7 @@
 MBA Candidate 2027 | William & Mary | Ex-Deutsche Bank & DWS Group | IIT BHU | CFA L2 Candidate
 
 ## About Me
-I bridge data and decisions — combining financial modeling, AI, Python, and SQL with business strategy to deliver insights that drive outcomes.
+I bridge data and decisions combining financial modeling, AI, Python, and SQL with business strategy to deliver insights that drive outcomes.
 
 Currently consulting for Yokohama Tire Corporation on competitive intelligence, tariff impact modeling, and 2026 market strategy as part of my MBA.
 
